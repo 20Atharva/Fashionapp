@@ -48,8 +48,6 @@ const Hero = () => {
       </div>
     
     
-    
-    
 
     </section>
   );
